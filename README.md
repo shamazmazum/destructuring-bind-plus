@@ -1,5 +1,6 @@
 DESTRUCTURING-BIND+
 ===================
+![CI](https://github.com/shamazmazum/destructuring-bind-plus/workflows/CI/badge.svg)
 
 `DESTRUCTURING-BIND+` macro is a macro similar to standard `DESTRUCTURING-BIND`
 but with support for placeholder symbols which are ignored:
